@@ -1,0 +1,1 @@
+<h1>El correo se ha generado correctamente enviado desde la aplicacion</h1>

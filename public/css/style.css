@@ -1,0 +1,100 @@
+header {
+    background: #1488CC;
+    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #2B32B2, #1488CC);
+}
+
+.card-header {
+    background: #1488CC;
+    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #2B32B2, #1488CC);
+}
+.acordion-header {
+    background: #1488CC;
+    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #2B32B2, #1488CC);
+}
+
+.modal-header {
+    background: #1488CC;
+    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #2B32B2, #1488CC);
+}
+.input-sinborde{
+    border: 0;
+}
+ .form-area {
+     margin: 5px auto;
+     /* max-width: 450px;*/
+     /*padding: 10px 30px;*/
+     background: #fafafa;
+ }
+
+ .form-area .single-form {
+     position: relative;
+     margin-bottom: 15px;
+     font-family: Merienda;
+ }
+
+ .form-area .single-form input,
+ .form-area .single-form select,
+ .form-area .single-form textarea {
+     width: 100%;
+     padding: 10px;
+ }
+
+ .form-area .single-form input:focus+label,
+ .form-area .single-form input:valid+label,
+ .form-area .single-form select:focus+label,
+ .form-area .single-form select:valid+label,
+ .form-area .single-form textarea:focus+label,
+ .form-area .single-form textarea:valid+label {
+     /* color: #00B2B0;*/
+     color: #222222;
+     font-size: .9rem;
+     font-weight: bold;
+     top: -10px;
+ }
+
+ .form-area .single-form input:focus+label:after,
+ .form-area .single-form input:valid+label:after,
+ .form-area .single-form select:focus+label:after,
+ .form-area .single-form select:valid+label:after,
+ .form-area .single-form textarea:focus+label:after,
+ .form-area .single-form textarea:valid+label:after {
+     content: ':';
+ }
+
+ .form-area label {
+     position: absolute;
+     top: 12px;
+     left: 20px;
+     color: #777;
+     font-size: .9rem;
+     background: #fff;
+     transition: .5s;
+ }
+
+
+#card_filtros{
+    height: 200px;
+
+        border: 1px solid #ddd;
+        background: #f1f1f1;
+        overflow-y: scroll;
+}
+
+#card_variables{
+    height: 800px;
+
+    border: 1px solid #ddd;
+    background: #f1f1f1;
+    overflow-y: scroll;
+}
+#card_dato{
+    height: 800px;
+
+    border: 1px solid #ddd;
+    background: #f1f1f1;
+    overflow-y: scroll;
+}
